@@ -1,11 +1,3 @@
-</h3>
-<h3 align="center">
-
-<a href="https://ecoletalipzs.herokuapp.com/" target="_blank">Acesse o App</a> :heart:
----
-
-</h3>
-
 # NextLevelWeek2
 ----------
 
