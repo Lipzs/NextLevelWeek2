@@ -27,7 +27,7 @@ Next Level Week #2 Omnistack - [Rocketseat :rocket:](https://rocketseat.com.br/)
 # Projeto Proffy - Omnistack
 
 Por ter feito a trilha starter na primeira edição a trilha que escolhi foi a __Omnistack__.
-Por ter sido realizado na semana do dia internacional do profissional da educação, o projeto desenvolvido foi um site chamado __*Proffy*__, onde será possível conectar alunos e professores. __*Spoiler*__: Deploy em breve!
+Por ter sido realizado na semana do dia nacional do profissional da educação, o projeto desenvolvido foi um site chamado __*Proffy*__, onde será possível conectar alunos e professores. __*Spoiler*__: Deploy em breve!
 
 O instrutor que nos guiou durante essa semana foi o [Diego Fernandes](https://github.com/diego3g),  CEO da RocketSeat!
 
